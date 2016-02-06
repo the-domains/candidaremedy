@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Learn What Candida Really Is
-datePublished: '2016-02-06T06:01:45.838Z'
-dateModified: '2016-02-06T06:01:30.052Z'
+datePublished: '2016-02-06T06:04:57.656Z'
+dateModified: '2016-02-06T06:04:53.181Z'
 title: What is Candida
 author: []
+sourcePath: _posts/2016-02-06-what-is-candida.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-06-what-is-candida.md
-published: true
 url: what-is-candida/index.html
-_type: Article
+_type: WebPage
 
 ---
 What is Candida?
