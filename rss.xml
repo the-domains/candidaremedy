@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CandidaRemedy]]></title>
-        <description><![CDATA[CandidaRemedy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Your Answers To All Things Candida]]></title>
+        <description><![CDATA[Your Answers To All Things Candida]]></description>
+        <link>https://thegrid.ai/candidaremedy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 05:53:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 06:01:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/candidaremedy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is Candida]]></title>
+            <description><![CDATA[<article><h1>What is Candida</h1><p>What is Candida?</p></article>]]></description>
+            <link>https://thegrid.ai/candidaremedy/what-is-candida/index.html</link>
+            <guid isPermaLink="false">326ead3a-0cc8-458e-8331-f9345b7546ef</guid>
+            <pubDate>Sat, 06 Feb 2016 06:01:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Candida Remedies]]></title>
-            <description><![CDATA[<article><h1>Candida Remedies</h1><p>Welcome!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e695c649e3f07829f127ecbf52ead9097225b3b2.jpg"></article>]]></description>
-            <link>undefinedcandida-remedies/index.html</link>
+            <description><![CDATA[<article><h1>Candida Remedies</h1><p>Welcome!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/065367905aa3147d4a1282709b2085ae07239426.jpg"></article>]]></description>
+            <link>https://thegrid.ai/candidaremedy/candida-remedies/index.html</link>
             <guid isPermaLink="false">40c5b379-a357-4218-8a3f-5965df9ef311</guid>
             <pubDate>Sat, 06 Feb 2016 05:53:35 GMT</pubDate>
         </item>
