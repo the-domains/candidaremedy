@@ -1,0 +1,28 @@
+name: CandidaRemedy
+favicon: null
+layout_spectrum: 0.6551761387381703
+typography_spectrum: 0.060390283120796084
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4886701446957886
+  lightness: 0.35071768751367927
+  saturation: 0.623676425544545
+  rhythmicContrast: 0.4651132037397474
+purpose: []
